@@ -1,0 +1,13 @@
+-	Data density
+-	Horizon graph
+-	Box-and-whisker plots
+-	Stem-and-leaf plots
+-	Q-Q plots
+-	SPLOM
+-	Brushing-and-linking
+-	Parallel coordinates
+-	Choropleth map
+-	Graduated symbol map
+-	Dendrogram
+-	Adjacency diagrams
+-	Arc diagramas
