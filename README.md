@@ -7,3 +7,5 @@
 [TP2 MakeOverMonday](https://lucasarbues.github.io/infovis/MakeOverMonday%20Week%2011.html)
 
 [Argentina Población Bar Race](https://lucasarbues.github.io/infovis/Arg.html)
+
+[Argentina Población Slides](https://lucasarbues.github.io/infovis/ArgPoblacion.html)
