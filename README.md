@@ -9,3 +9,5 @@
 [Argentina Población Bar Race](https://lucasarbues.github.io/infovis/Arg.html)
 
 [Argentina Población Slides](https://lucasarbues.github.io/infovis/ArgPoblacion.html)
+
+[TP Datos Personales](https://lucasarbues.github.io/infovis/DatosPersonales.html)
