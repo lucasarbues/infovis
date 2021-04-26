@@ -12,4 +12,4 @@
 
 [TP Datos Personales](https://lucasarbues.github.io/infovis/DatosPersonales.html)
 
-[Screenshot TP Datos Personales](Caratula TP infovis![image](https://user-images.githubusercontent.com/79850409/116090997-d08c2b00-a67a-11eb-8775-15b169f001a7.png)
+[Screenshot TP Datos Personales](https://user-images.githubusercontent.com/79850409/116090997-d08c2b00-a67a-11eb-8775-15b169f001a7.png)
